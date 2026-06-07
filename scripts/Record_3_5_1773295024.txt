@@ -1,0 +1,10 @@
+Call "D:\game\按键精灵2014\screen\cmd\Record_1_2_1772501452.txt"
+
+Delay 1000
+Call "D:\game\按键精灵2014\screen\cmd\每日\白蛋.ks"
+
+Delay 1000
+Call "D:\game\按键精灵2014\screen\cmd\Record_1_5_1772934168.txt"
+
+Delay 1000
+' 停一下
